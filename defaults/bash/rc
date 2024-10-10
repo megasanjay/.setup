@@ -1,0 +1,4 @@
+source ~/.setup/defaults/bash/shell
+source ~/.setup/defaults/bash/aliases
+source ~/.setup/defaults/bash/prompt
+source ~/.setup/defaults/bash/init
