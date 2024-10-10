@@ -15,6 +15,7 @@ A set of scripts to install and configure my development environment. Meant to b
 
    ```bash
    cd .setup
+   chmod +x setup.sh
    ./setup.sh
    ```
 
