@@ -11,6 +11,7 @@ alias cd='z'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias ....='cd ../../..'
+alias dev='cd ~/dev'
 
 # Tools
 alias n='nvim'
