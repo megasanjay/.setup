@@ -5,3 +5,6 @@ color_prompt=yes
 # Simple prompt with path in the window/pane title and carat for typing line
 # PS1=$'\uf0a9 '
 # PS1="\[\e]0;\w\a\]$PS1"
+
+# Colors are from https://robotmoon.com/bash-prompt-generator/
+PS1="\[\e[38;5;39m\]\u\[\e[38;5;45m\]@\[\e[38;5;51m\]\h~\[\e[38;5;195m\][\w] \[\033[0m\]\n$ "
